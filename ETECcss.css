@@ -1,0 +1,185 @@
+
+/*CSS DA PARTE DAS INFORMAÇÕES DA ESCOLA*/
+#bordaprincipal-container{
+background-color: rgb(165, 4, 4);
+width: 100%;
+height: 60px;
+}
+#botaocurso{
+width: 100px;
+height: 6%;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+position: absolute;
+top: 23%;
+left: 30px;
+border-bottom: 30px;
+}
+#botaovestibulinho{
+width: 160px;
+height: 6%;
+display: block;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+position: absolute;
+top: 23%;
+left: 1300px;
+border-bottom: 30px;
+}
+#linhavermelhaescola{
+    background-color: rgb(165, 4, 4);
+    width: 50%;
+    height: 10px;
+    border-radius: 50px;
+}
+#txtescola{
+    
+    color: black;
+    position: absolute;
+    top: 310px;
+    left: 500px;
+    right: 100px;
+}
+.botãolocalizaçãoetec{
+    width: 350px;
+    height: 20%;
+display: block;
+margin-right: auto;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+margin-left: 85px;
+}
+#imagemetec{
+    position: absolute;
+    top: 0%;
+    left: 1200px;
+}
+
+
+/*CSS DA PARTE DA INFRAESTRUTURA DA ESCOLA*/
+#etecvistadecima{
+    top: 120%;
+    position: absolute;
+  height: 250px;
+  width: 420px;
+}
+#tituloinfraestrutura{
+   margin-top: 5%;
+ color: gray;
+}
+#linhainfraestrutura{
+    background-color: rgb(165, 4, 4);
+    width: 50%;
+    height: 10px;
+    border-radius: 50px;
+    top: 120%;
+}
+#txtinfraestura{
+    color: black;
+    position: absolute;
+    top: 120%;
+    left: 520px;
+    right: 605px;
+    width: 30%;
+}
+
+
+/*CSS DA PARTE DO CONSELHO DA ESCOLA*/
+#tituloconselho{
+    margin-top: 22%;
+    color: gray;
+}
+#linhaconselho{
+    background-color: rgb(165, 4, 4);
+    width: 50%;
+    height: 10px;
+    border-radius: 50px;
+    top: 150%;
+}
+#txtconselho{
+    color: black;
+    position: absolute;
+    top: 180%;
+    left: 520px;
+    right: 105px;
+}
+#conselhoreuniao{
+    top: 180%;
+    position: absolute;
+  height: 250px;
+  width: 420px;
+}
+#ilustracaoreuniao{
+    top: 240%;
+    position: absolute;
+  height: 250px;
+  width: 420px;
+}
+
+
+/*CSS DA PARTE DO GRÊMIO DA ESCOLA*/
+#txtgremioestudantil{
+    color: black;
+    position: absolute;
+    top: 300%;
+    left: 520px;
+    right: 105px;
+}
+#logogremioestudantil{
+    top: 310%;
+    position: absolute;
+  height: 250px;
+  width: 420px;
+   border-width:9px
+}
+#linhagremio{
+    background-color: rgb(165, 4, 4);
+    width: 50%;
+    height: 10px;
+    border-radius: 50px;
+    top: 150%;
+}
+#titulogremio{
+    margin-top: 55%;
+    color: gray;
+}
+
+
+/*CSS DA PARTE DO APM DA ESCOLA*/
+#tituloapm{
+    margin-top: 33%;
+    color: gray;
+}
+#linhaapm{
+    background-color: rgb(165, 4, 4);
+    width: 50%;
+    height: 10px;
+    border-radius: 50px;
+    top: 150%;
+}
+#logoapm{
+    top: 385%;
+    position: absolute;
+  height: 250px;
+  width: 420px;
+   border-width:9px
+}
+#txtapm{
+    color: black;
+    position: absolute;
+    top: 400%;
+    left: 520px;
+    right: 50px;
+}

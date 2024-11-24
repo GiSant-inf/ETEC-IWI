@@ -1,0 +1,116 @@
+#bordaprincipal{
+    background-color: rgb(165, 4, 4);
+    width: 100%;
+    height: 70px;
+    }
+    #botaoinicio{
+    width: 100px;
+    height: 6%;
+    background-color: white;
+    border-color: rgb(139, 139, 139);
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    cursor: pointer;
+    font-size: 20px;
+    position: absolute;
+    top: 21%;
+    left: 30px;
+    border-bottom: 30px;
+    }
+    #imagemetec{
+        position: absolute;
+        top: 0%;
+        left: 1400px;
+    }
+    #titulocursoinformática{
+        margin-top: 2%;
+        color: gray;
+    }
+#linhacursoinformatica{
+    background-color: rgb(165, 4, 4);
+    width: 50%;
+    height: 10px;
+    border-radius: 50px;
+    top: 150%;
+}
+#txtcursoinformática{
+    color: black;
+    position: absolute;
+    top: 45%;
+    left: 50px;
+    width: 1000px;
+}
+
+#tituloareadeatuacao{
+    margin-top: 2%;
+    color: gray;
+}
+#linhaareadeatuacao{
+    background-color: rgb(165, 4, 4);
+    width: 80%;
+    height: 10px;
+    border-radius: 50px;
+    top: 200%;
+}
+
+
+#tituloondetrabalhar{
+    margin-top: 2%;
+    color: gray;
+}
+#linhaondetrabalhar{
+    background-color: rgb(165, 4, 4);
+    width: 80%;
+    height: 10px;
+    border-radius: 50px;
+    top: 150%;
+}
+
+
+#titulocoordenador{
+    margin-top: 2%;
+    color: gray;
+}
+#linhacoordenador{
+    background-color: rgb(165, 4, 4);
+    width: 80%;
+    height: 10px;
+    border-radius: 50px;
+    top: 180%;
+}
+
+#codigo{
+    position: absolute;
+    top: 310px;
+    left: 75%;
+    right: 90px;
+border-radius: 10%;
+}
+#botao1min{
+    width: 200px;
+    height: 100%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+
+}
+
+
+#faixatres{
+    
+        background-color: rgb(165, 4, 4);
+        width: 140%;
+        height: 80px;
+     
+}

@@ -1,0 +1,441 @@
+#imagemetec{
+
+    position: absolute;
+    top: 0%;
+    left: 1100px;
+}
+
+#botao{
+    
+    width: 100px;
+    height: 55%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+
+}
+#faixa{
+    background-color: rgb(165, 4, 4);
+    width: 100%;
+    height: 50px;
+   
+}
+#faixadois{
+    position: absolute;
+    top: 45%;
+background-color: rgb(165, 4, 4);
+width: 1200px;
+right: 80%;
+height: 10px;
+left: 20px;
+border-radius: 55px;
+
+}
+#botaoportugues{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 5px 2px;
+position: absolute;
+top: 202%;
+
+}
+#botaoingles{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 802%;
+
+}
+#botaoartes{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 1400%;
+right: 1000px;
+
+}
+#botaoquimica{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 1400%;
+left: 300px;
+
+}
+#botaoea{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 202%;
+left: 300px;
+}
+#botaofisica{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 802%;
+right: 700px;
+
+}
+#botaobiologia{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 202%;
+
+}
+#botaoeducacaofisica{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 802%;
+
+}
+#botaolic{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 1400%;
+
+}
+#botaopratempr{
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 202%;
+left: 905px;
+}
+#botaointerweb{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 802%;
+left: 909px;
+
+}
+#botaoprogalg{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 1400%;
+left: 910px;
+}
+#botaoartesdigitais{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 2000%;
+left: 0px;
+
+}
+#botaofundinf{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 202%;
+left: 1200px;
+}
+#botaoapw{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+left: 1200px;
+position: absolute;
+top: 802%;
+}
+#botaoetica{
+
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 1400%;
+left: 1200px;
+
+}
+#botaoestudosavancados{
+    
+    width: 200px;
+    height: 500%;
+display: block;
+margin-right: auto;
+border-radius: 15px;
+background-color: white;
+border-color: rgb(139, 139, 139);
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+cursor: pointer;
+font-size: 20px;
+padding: 5px 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+margin: 10px 2px;
+position: absolute;
+top: 2000%;
+}
+#botaomatematica{
+        width: 200px;
+        height: 500%;
+    display: block;
+    margin-right: auto;
+    border-radius: 15px;
+    background-color: white;
+    border-color: rgb(139, 139, 139);
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 2px;
+    position: absolute;
+    top: 2000%;
+    left:1200px ;
+    }
+    
+
+
